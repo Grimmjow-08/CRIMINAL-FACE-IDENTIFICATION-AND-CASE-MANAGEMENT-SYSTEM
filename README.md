@@ -100,4 +100,4 @@ python -m pip install facenet-pytorch opencv-python mysql-connector-python
 
 ## Prototype Notice
 
-This project is a prototype. Do not use its face-match results as the sole basis for identifying a person or making investigative, legal, or other consequential decisions. Use only synthetic or otherwise authorized data, and protect biometric and case information appropriately.
+This project is a prototype. Do not use its face-match results as the sole basis for identifying a person or making investigative, legal, or other consequential decisions. Use only synthetic or otherwise authorized data, and protect biometric and case information appropriately
